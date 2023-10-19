@@ -16,7 +16,7 @@ The website is organized with the following files:
 
 ## Usage
 1. Clone or download the repository to your local machine.
-   ```bash
+   ```bash..
    git clone <repository_url>
    ```
 
