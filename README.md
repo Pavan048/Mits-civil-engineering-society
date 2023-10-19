@@ -39,6 +39,3 @@ This website template is provided under an open-source license. You are free to 
 ## Contact
 For any questions or support related to this website template, please feel free to contact us at [pavankrishna048@example.com].
 
----
-
-This README provides an overview of the MIT Civil Engineering Society website template's structure and instructions on how to use and customize it for your competition. You can further expand this README as needed to provide additional information about the website's content and customization options.
