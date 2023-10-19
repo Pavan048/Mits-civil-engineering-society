@@ -37,7 +37,7 @@ You can easily customize the template to match your society's branding and conte
 This website template is provided under an open-source license. You are free to use and modify it as needed for your competition.
 
 ## Contact
-For any questions or support related to this website template, please feel free to contact us at [your_email@example.com].
+For any questions or support related to this website template, please feel free to contact us at [pavankrishna048@example.com].
 
 ---
 
